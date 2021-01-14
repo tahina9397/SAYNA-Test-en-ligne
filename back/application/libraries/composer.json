@@ -1,0 +1,8 @@
+{
+    "require": {
+        "intervention/image": "^2.3"
+        ,"intervention/imagecache": "^2.3",
+        "giggsey/libphonenumber-for-php": "^8.9",
+        "tequilarapido/letter-avatar": "^1.0"
+    }
+}

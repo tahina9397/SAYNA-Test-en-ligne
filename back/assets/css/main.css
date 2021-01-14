@@ -1,0 +1,7 @@
+.cpointer{
+  cursor: pointer;
+}
+
+.text-underline:hover{
+	text-decoration: underline;
+}
