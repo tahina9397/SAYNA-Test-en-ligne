@@ -1,7 +1,7 @@
 <div class="login-wrapper">
 	<div class="text-center">
 		<h2 class="fadeInUp animation-delay8" style="font-weight:bold">
-			<span class="text-success">Bazar</span>
+			<span class="text-success">Se connecter</span>
 		</h2>
 	</div>
 	<div class="login-widget animation-delay1">	
