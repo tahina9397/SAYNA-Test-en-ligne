@@ -88,7 +88,7 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 define('PLUGINS_PATH', FCPATH . '/public/plugins/');
 define('UPLOAD_PATH', FCPATH . '/public/upload/');
 
-define('BASE_URL', 'http://'.$_SERVER ['HTTP_HOST']);
+define('BASE_URL', 'http://'.$_SERVER ['HTTP_HOST']."/back");
 define('THEMES_URL', BASE_URL . '/assets/');
 define('PLUGINS_URL', BASE_URL . '/assets/plugins/');
 define('UPLOAD_URL', BASE_URL . '/public/upload/');
